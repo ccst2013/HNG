@@ -1,0 +1,2 @@
+# HNG
+Hibernate Generator Code
